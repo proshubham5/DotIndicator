@@ -1,0 +1,3 @@
+include ':dotIndicator'
+include ':app'
+rootProject.name = "DotIndicator"
